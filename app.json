@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "first-project",
+    "name": "Meteo-App",
     "description": "An empty new project",
-    "slug": "first-project",
+    "slug": "Meteo-App",
     "privacy": "public",
     "sdkVersion": "23.0.0",
     "version": "1.0.0",
